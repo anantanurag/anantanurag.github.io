@@ -2,7 +2,7 @@ body {
 	background-color: rgb(48, 10, 36);
 	/*background-color: black;*/
 	color: white;
-	font-family:"Courier New", monospace, "Lucida Console",  Courier,verdana, Lucida ,arial;
+	font-family:verdana, "Courier New", monospace, "Lucida Console",  Courier,Lucida ,arial;
 }
 
 .contact{
