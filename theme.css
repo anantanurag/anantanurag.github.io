@@ -1,7 +1,8 @@
 body {
 	background-color: rgb(48, 10, 36);
+	/*background-color: black;*/
 	color: white;
-	font-family: verdana, Lucida ,arial;
+	font-family:"Courier New", monospace, "Lucida Console",  Courier,verdana, Lucida ,arial;
 }
 
 .contact{
