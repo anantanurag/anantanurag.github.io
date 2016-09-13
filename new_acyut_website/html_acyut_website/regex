@@ -1,0 +1,3 @@
+(?<=[<][!]--=== Style Switcher ===--[>]\n)[\S\s]{0,4000}(?=[<][!]--=== End Style Switcher ===--[>])
+
+<a href="javascript:void[(]0[)];" class="dropdown-toggle">(?=[\s]{0,100}Contact)

@@ -1,0 +1,1 @@
+(?<=[<][!]--=== Style Switcher ===--[>]\n)[\S\s]{0,4000}(?=[<][!]--=== End Style Switcher ===--[>])
